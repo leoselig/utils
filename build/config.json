@@ -1,0 +1,13 @@
+{
+    "debug:": true,
+
+    "src": "src/",
+    "srcEntryFile": "bundle.js",
+
+    "target": "target/",
+    "targetBuildFile": "gaming.js",
+
+    "test": "test/",
+    "testEntryFile": "specs/main.js",
+    "testBuildFile": "specs.js"
+}

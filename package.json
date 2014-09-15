@@ -1,0 +1,38 @@
+{
+    "name": "webreflected-utils",
+    "version": "0.0.2",
+    "description": "",
+    "main": "src/main.js",
+    "scripts": {
+        "test": "gulp test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leoselig/utils.git"
+    },
+    "keywords": [
+        "utils",
+        "js",
+        "web",
+        "helper",
+        "webreflected"
+    ],
+    "author": "Leo Selig",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/leoselig/utils/issues"
+    },
+    "devDependencies": {
+        "gulp": "~3.8.7",
+        "gulp-browserify": "~0.5.0",
+        "gulp-clean": "~0.3.1",
+        "gulp-load-plugins": "~0.6.0",
+        "gulp-rename": "~1.2.0",
+        "gulp-debug": "~1.0.1",
+        "gulp-mocha-phantomjs": "~0.5.0",
+        "sinon": "~1.10.3",
+        "should": "~4.0.4",
+        "mocha": "~1.21.4",
+        "gulp-watch": "~1.0.3"
+    }
+}
